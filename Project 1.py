@@ -25,6 +25,7 @@ while True:
   else:
     print(''' 
       Wrong input''')
+
 #computer choice
   if computer == 1:
     print('''      CPU chose Rock''')
